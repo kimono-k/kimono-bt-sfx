@@ -1,4 +1,5 @@
 # kimono-bt-sfx
+https://kimono-k.github.io/kimono-bt-sfx/
 
 # Probably the dumbest project I've ever done.
 When I was a child I used to play Banjo-Tooie on the N64 and the sounds are hilarious. That's why I made this useless website to play with eventListeners and such in JavaScript. Have fun laughing about this web app.
